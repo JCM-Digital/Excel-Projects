@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/704204b5-86ff-4616-aa00-1354d614e619)
+![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/adafbdea-5b21-4ee3-bad6-ff58c583d022)
 
 
 ## Introduction
@@ -35,7 +35,8 @@ Our dataset encompasses a wide array of 2023 data science job information, acces
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<!-- Insert image file: 1_Salary_Dashboard_Chart1.png -->
+![1_Salary_Dashboard_Chart1](https://github.com/user-attachments/assets/b5d7d1d2-4461-4505-8608-0512158eec47)
+
 
 - 🛠️ **Excel Features:** The bar chart function is used here to display salary data effectively.
 - 🎨 **Design Choice:** A horizontal layout is selected to facilitate easy comparison of median salaries.
@@ -44,7 +45,8 @@ Our dataset encompasses a wide array of 2023 data science job information, acces
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-<!-- Insert image file: 1_Salary_Dashboard_Chart2.png or GIF: 1_Salary_Dashboard_Country_Map.gif -->
+![1_Salary_Dashboard_Country_Map](https://github.com/user-attachments/assets/31089c0b-95cf-465d-915f-ce1a9a032cc6)
+
 
 - 🛠️ **Excel Features:** The map chart tool is used to depict global salary data.
 - 🎨 **Design Choice:** A color-coded approach differentiates salary levels across countries.
