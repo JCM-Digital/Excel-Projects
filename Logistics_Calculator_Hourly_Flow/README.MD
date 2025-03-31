@@ -1,6 +1,6 @@
 # Logistics Hourly Flow Calculator
 
-
+![Hourly_Flow](https://github.com/user-attachments/assets/7f0aa084-6d57-4e59-98c8-f80cf1b498a0)
 
 ## Overview
 This repository contains "Logistics Hourly Flow Calculator.xlsx," my first Excel file used for practical applications. It's designed to track and analyze hourly logistics flows, crucial for operational management and planning in logistics and supply chain environments.
